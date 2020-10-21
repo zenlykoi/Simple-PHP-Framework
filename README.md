@@ -1,4 +1,4 @@
-# simple-PHP-framework
+# Simple-PHP-Framework
 A simple PHP framework
 
 # Using
