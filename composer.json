@@ -1,0 +1,11 @@
+{
+    "name": "np/simplephpframework",
+    "description": "A simple PHP framework",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "miladrahimi/phprouter": "4.*",
+        "catfan/medoo": "^1.7",
+        "league/plates": "^3.3"
+    }
+}
