@@ -2,9 +2,9 @@
 A simple PHP framework
 
 # Using
-[Router - miladrahimi/phprouter](https://github.com/miladrahimi/phprouter)
-[Database - catfan/medoo](https://medoo.in/doc)
-[View template - league/plates](http://platesphp.com/v3/)
+1. [Router - miladrahimi/phprouter](https://github.com/miladrahimi/phprouter)
+2. [Database - catfan/medoo](https://medoo.in/doc)
+3. [View template - league/plates](http://platesphp.com/v3/)
 
 # Download
 ```
