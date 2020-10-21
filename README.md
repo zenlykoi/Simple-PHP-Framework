@@ -1,7 +1,7 @@
 # simple-PHP-framework
 A simple PHP framework
 
-#build
+# build
 ```
 php -S localhost:8080 -t public
 ```
