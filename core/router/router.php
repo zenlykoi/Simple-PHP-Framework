@@ -47,7 +47,7 @@ catch (RouteNotFoundException $err)
 } 
 catch (Throwable $err) 
 {
-	if (DEBUG) print_r($err);
+	if (DEBUG) error_log($err);
 	else
     	$router->getPublisher()->publish(new HtmlResponse('Internal error.', 500));
 }
